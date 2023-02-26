@@ -6,7 +6,7 @@
 ### <div align="center">I'm Fatih, a full-stack developer 👨‍💻 I'm passionate about developing web applications🚀</div>  
   
 
-- 🔭 I’m currently working as a Research Intern on Tübitak🏢  
+- 🔭 I’m currently working as a Research Intern on Tübitak 🏢  
 - ⭐ I'm also using GitLab, if you want to see my DevOps and other projects [GitLab Fatih Yavan](https://gitlab.com/users/fatihyavan/projects)  
 - **⚡ Reach me at fatih.yavan@outlook.com**  
   
