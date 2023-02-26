@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Research Intern on Tübitak🏢  
   
 
-- **⚡ Reach me on fatih.yavan@outlook.com**  
+- **⚡ Reach me at fatih.yavan@outlook.com**  
   
 
 <br/>  
